@@ -1,4 +1,4 @@
-# Clip tokenizer Prompt / Caption Checker
+# Clip Tokenizer Prompt / Caption Checker
 
 ### Given a prompt or caption, it will tokenize it and display which tokens fall within 77 token limit and outside
 
